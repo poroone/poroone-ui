@@ -1,0 +1,19 @@
+{
+  "name": "poroone-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"vite",
+    "build":"vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.0.10",
+    "vitepress": "^1.0.0-rc.35",
+    "vue": "^3.4.4"
+  }
+}
